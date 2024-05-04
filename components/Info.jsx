@@ -2,7 +2,11 @@ import { FaLinkedin, FaEnvelope } from "react-icons/fa";
 const Info = () => {
   return (
     <div className="info2">
-      <img className="info--photo" src="anthony.png" alt="antony's picture" />
+      <img
+        className="info--photo"
+        src="https://drive.google.com/file/d/1HB-rlY442VD2spSN0wmlwYa5lhDIzsnR/view"
+        alt="antony's picture"
+      />
       <h1 className="info--fullname">Anthony Muuo</h1>
       <h5 className="info--role">Junior Front End Developer</h5>
       <p className="info--website">
